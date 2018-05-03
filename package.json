@@ -1,0 +1,23 @@
+{
+  "name": "colortemp",
+  "version": "1.0.0",
+  "description": "A simple package to return a color, based from a temperature input, to mimic the color of a real world element at the given temperature.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZachJMoore/color-temp.git"
+  },
+  "keywords": [
+    "Color",
+    "Temperature"
+  ],
+  "author": "Zach Moore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZachJMoore/color-temp/issues"
+  },
+  "homepage": "https://github.com/ZachJMoore/color-temp#readme"
+}
