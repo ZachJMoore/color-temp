@@ -1,7 +1,7 @@
-#ColorTemp
+# ColorTemp
 Get a real color representation based on a temperature. Designed for use of getting the color of the inside of a kiln.
 
-##Usage
+## Usage
 ```javascript
 let ColorTemp = require("./index")
 let colorTemp = new ColorTemp()
